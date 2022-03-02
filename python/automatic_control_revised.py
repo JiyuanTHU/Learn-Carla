@@ -88,4 +88,8 @@ if __name__ == '__main__':
         main()
     except KeyboardInterrupt:
         print(' - Exited by user.')
+<<<<<<< HEAD
 """"This is a sentence to test whether parcharm can direct upload"""
+=======
+''' dsfasdfa '''
+>>>>>>> 442b8b5433732e5c40f37d16033dbab53b929fa8
